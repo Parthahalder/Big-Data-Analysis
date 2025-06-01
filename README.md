@@ -27,6 +27,9 @@ An error during tip amount analysis was traced back to datetime parsing issues r
 
 This analysis demonstrates how large, real-world transportation data can be handled effectively using Dask and how valuable patterns related to user behavior, fare trends, and trip characteristics can be extracted through structured data processing and visualization.
 
+OUTPUT ----
+![Image](https://github.com/user-attachments/assets/e39b68ed-8c16-495a-96d1-9e78c504ef97)
+
 
 
 
